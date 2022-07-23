@@ -1,0 +1,4 @@
+---
+# vars file for httpd
+src_filename: index.html
+dest_filename: /var/www/html/index.html
